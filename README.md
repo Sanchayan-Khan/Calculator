@@ -1,2 +1,2 @@
 # Calculator
-Hope it works
+This is a basic calculator, hope this works.
