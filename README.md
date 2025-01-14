@@ -1,2 +1,4 @@
 # Calculator
-This is a basic calculator, hope this works.
+This is a very basic calculator.
+The author is learning web development at the moment. 
+Thank you.
